@@ -1,0 +1,27 @@
+body{
+  background-color: #ffe6eb;
+  font-size: 20px;
+
+}
+h1{
+
+font-family: 'Oswald', sans-serif;
+font-weight: 400;
+font-size: 40px;
+}
+
+hr{
+  color: #ff5d9e;
+  width: auto;
+
+
+
+}
+.career{
+
+  text-align: center;
+}
+
+img{
+  border-radius: 50%;
+}
